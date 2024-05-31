@@ -1,4 +1,5 @@
- #include<stdio.h>
+//RoYaL
+#include<stdio.h>
 #include<string.h>
 struct process
 {
